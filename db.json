@@ -1,0 +1,118 @@
+{
+  "users": [
+    {
+      "login": "elzar",
+      "mail": "123",
+      "password": "123",
+      "isAdmin": true,
+      "id": 1
+    },
+    {
+      "login": "qwe",
+      "mail": "123",
+      "password": "123",
+      "isAdmin": false,
+      "id": 2
+    },
+    {
+      "login": "elzar",
+      "mail": "qwe",
+      "password": "bekbol",
+      "isAdmin": true,
+      "id": 3
+    },
+    {
+      "login": "elzar",
+      "mail": "qwe",
+      "password": "bekbol",
+      "isAdmin": true,
+      "id": 4
+    },
+    {
+      "login": "elzar",
+      "mail": "dsa",
+      "password": "bekbol",
+      "isAdmin": true,
+      "id": 5
+    },
+    {
+      "login": "elzar",
+      "mail": "123",
+      "password": "bekbol",
+      "isAdmin": true,
+      "id": 6
+    },
+    {
+      "login": "qwe",
+      "mail": "asd",
+      "password": "zxc",
+      "isAdmin": false,
+      "id": 7
+    }
+  ],
+  "products": [
+    {
+      "productName": "spider man and bekbol",
+      "productFormat": "fantastic",
+      "productImage": "https://insomniac.games/wp-content/uploads/2018/09/Spider-Man_PS4_Selfie_Photo_Mode_LEGAL.jpg",
+      "productPrice": "323",
+      "productCategory": "Pc",
+      "productDetails": "dauuun",
+      "id": 1
+    },
+    {
+      "productName": "pider man",
+      "productFormat": "pdr",
+      "productImage": "https://deadline.com/wp-content/uploads/2023/06/tom-holland-spider-man-4.jpg",
+      "productPrice": "34324",
+      "productCategory": "Mobile",
+      "productDetails": "asdascxzz",
+      "id": 2
+    },
+    {
+      "productName": "spder-man multi",
+      "productFormat": "wafa",
+      "productImage": "https://avatars.mds.yandex.net/get-kinopoisk-image/10893610/4df6ae79-1fef-4a72-b55d-9be66233af1e/600x900",
+      "productPrice": "1313123",
+      "productCategory": "PlayStation",
+      "productDetails": "sacaskcl",
+      "id": 3
+    },
+    {
+      "productName": "leri",
+      "productFormat": "sadasd",
+      "productImage": "https://www.ixbt.com/img/n1/news/2022/5/5/0c3c20a8d8514501524a0859461f391572ea6e61_large.jpg",
+      "productPrice": "3123123",
+      "productCategory": "PlayStation",
+      "productDetails": "cszzxczxcasas",
+      "id": 4
+    },
+    {
+      "productName": "asdasd",
+      "productFormat": "wqeqw",
+      "productImage": "https://www.cnet.com/a/img/resize/bfea0c046b6cb0f8427be83be5afd90273690c86/hub/2019/05/07/31f16274-0281-4f80-9e4b-e76ba3b137f9/7-spider-man-into-the-spider-verse-b5ucxe.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "productPrice": "123123123",
+      "productCategory": "PlayStation",
+      "productDetails": "sacascascascas",
+      "id": 5
+    },
+    {
+      "productName": "easydai",
+      "productFormat": "asdaio",
+      "productImage": "https://pyxis.nymag.com/v1/imgs/a37/b79/19df33a42766a8dc9f4552b64238e8a0b5-spider-man-2002-tobey-maguire.jpg",
+      "productPrice": "3414124123",
+      "productCategory": "Pc",
+      "productDetails": "saascas",
+      "id": 6
+    },
+    {
+      "productName": "elzar",
+      "productFormat": "weqwe",
+      "productImage": "https://images.thedirect.com/media/article_full/spider-verse-3.jpg",
+      "productPrice": "1213",
+      "productCategory": "Pc",
+      "productDetails": "2e12e3123",
+      "id": 7
+    }
+  ]
+}
